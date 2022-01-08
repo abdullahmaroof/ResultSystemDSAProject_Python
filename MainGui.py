@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import ImageTk, Image
-from other_guis import about, stdlogingui, adminlogingui
+from OtherGUI import about, stdlogingui, adminlogingui
 from voicesystem import call_voice
 
 class main:
