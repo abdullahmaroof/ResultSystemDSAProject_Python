@@ -5,7 +5,7 @@ from tkinter import ttk
 from DB_Admin import *
 import random as ran
 from DoublyLinkList import *
-from query_excel_result import *
+from Excel_Result import *
 
 ddl = DoublyLL()
 
