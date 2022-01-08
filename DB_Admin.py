@@ -1,6 +1,6 @@
 #database query for admin
 from sqlite3 import *
-from excel_data import *
+from Excel_Data import *
 from tkinter import messagebox
 
 
