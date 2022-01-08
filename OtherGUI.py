@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import ImageTk, Image
-from voicesystem import *
+from VoiceSystem import *
 from tkinter import ttk
 from db_query_admin import *
 import random as ran
