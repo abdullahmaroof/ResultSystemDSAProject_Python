@@ -2,7 +2,7 @@ from tkinter import *
 from PIL import ImageTk, Image
 from VoiceSystem import *
 from tkinter import ttk
-from db_query_admin import *
+from DB_Admin import *
 import random as ran
 from DoublyLinkedList import *
 from query_excel_result import *
