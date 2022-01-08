@@ -1,0 +1,5 @@
+Username: abdullah
+Password: a123
+Captcha: QRT
+Login Time: 2022.01.08--18.21.14
+

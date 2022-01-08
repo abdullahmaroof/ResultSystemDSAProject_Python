@@ -1,0 +1,10 @@
+Username: BDSM-F20-001
+Password: student123*
+Captcha: AAA
+Login Time: 2022.01.08--18.21.14
+
+Username: BAIM-F19-007
+Password: student123*
+Captcha: UMT
+Login Time: 2022.01.08--18.21.14
+

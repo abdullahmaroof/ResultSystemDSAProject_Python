@@ -1,0 +1,3 @@
+Total Students of AI Program: [(14,)]
+Time of storing data: 2022.01.08--18.21.14
+
